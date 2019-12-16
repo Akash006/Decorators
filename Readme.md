@@ -4,7 +4,7 @@
 - Decorators allow us to wrap another function in order to extend the behavior of wrapped function, without permanently modifying it.
 - In Decorators, functions are taken as the argument into another function and then called inside the wrapper function.
 - Decorators are usually called before the definition of a function you want to decorate.
-- *A decorator is a function that takes a function as its only parameter and returns a function*. This is helpful to “wrap” functionality with the same code over and over again.
+- **A decorator is a function that takes a function as its only parameter and returns a function**. This is helpful to “wrap” functionality with the same code over and over again.
 
 ##		Decorators have several use cases such as:
 
