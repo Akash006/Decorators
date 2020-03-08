@@ -13,4 +13,5 @@
 	* Measuring execution time
 	* Synchronization
 	
-## For Reference : https://realpython.com/primer-on-python-decorators/
+## For Reference : 
+	- https://realpython.com/primer-on-python-decorators/
