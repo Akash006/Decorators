@@ -12,3 +12,5 @@
 	* Logging
 	* Measuring execution time
 	* Synchronization
+	
+## For Reference : https://realpython.com/primer-on-python-decorators/
